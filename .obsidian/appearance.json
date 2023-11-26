@@ -1,7 +1,6 @@
 {
-  "accentColor": "#97a4d8",
+  "accentColor": "",
   "theme": "system",
-  "baseFontSize": 16,
-  "nativeMenus": true,
-  "cssTheme": "Everforest Enchanted"
+  "cssTheme": "Everforest Enchanted",
+  "baseFontSize": 19
 }

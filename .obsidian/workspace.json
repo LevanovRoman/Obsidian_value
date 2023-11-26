@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "12333a131a127107",
+    "id": "d51bd3fddfc04a07",
     "type": "split",
     "children": [
       {
-        "id": "4d1d4ba5b05cdf9a",
+        "id": "ae9b9738a91726f0",
         "type": "tabs",
         "children": [
           {
-            "id": "977cdc1c8411f49b",
+            "id": "b9afc90a7399d161",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Команды.md",
+                "file": "JAVA/Массивы.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "21b69c1a907fc365",
+    "id": "360f67e2d5dc9c1c",
     "type": "split",
     "children": [
       {
-        "id": "c481ec54b5f79f97",
+        "id": "3f1faed0e97c6ac4",
         "type": "tabs",
         "children": [
           {
-            "id": "496fc2f090ea280e",
+            "id": "9f838fe670eac328",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "70b350819fe7561c",
+            "id": "06a955f351928109",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "3a1251cfcbde85af",
+            "id": "8528f95fedb6d781",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5026054382324
+    "width": 469
   },
   "right": {
-    "id": "b8df2b4528207486",
+    "id": "74f08e171673cda2",
     "type": "split",
     "children": [
       {
-        "id": "ce6b201824ad3d1f",
+        "id": "9e7e58dc68dbf18d",
         "type": "tabs",
         "children": [
           {
-            "id": "9ec59c8752d02bff",
+            "id": "cfbd469da8244f2f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/Команды.md",
+                "file": "JAVA/Массивы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "8c6dcbcb019685c4",
+            "id": "7ac4116454df8213",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/Команды.md",
+                "file": "JAVA/Массивы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "bb9597b9c7879921",
+            "id": "874a4965a9b59da1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,21 +120,20 @@
             }
           },
           {
-            "id": "3ace03a75c22754e",
+            "id": "a4218b744dde51db",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Команды.md"
+                "file": "JAVA/Массивы.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -147,53 +146,53 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "977cdc1c8411f49b",
+  "active": "b9afc90a7399d161",
   "lastOpenFiles": [
-    "Linux/VIM.md",
-    "GIT/Команды.md",
-    "Nginx/nginx под Windows.md",
-    "Linux/Install.md",
-    "GIT/Запись изменений в репозиторий.md",
-    "GIT/О системе контроля версий.md",
-    "GIT/git_image.png",
-    "GIT/Первоначальная настройка Git.md",
-    "Docker/Без названия.md",
-    "Docker/Шпаргалка с командами Docker.md",
-    "Без названия.md",
-    "Linux/Пакеты.md",
-    "Linux/Пользователи и группы.md",
-    "Linux",
-    "Docker/Команды Docker/Команды Docker для управления образами.md",
-    "Docker/Что такое DockerFile.md",
-    "Docker/Команды Docker/Команды для управления контейнерами.md",
-    "Docker/Команды Docker/Прочие команды.md",
-    "Docker/Команды Docker",
-    "Docker/Что такое Docker.md",
-    "Docker/Установка Docker.md",
-    "JAVA/Методы массивов.md",
-    "Nginx",
-    "JAVA/Массивы.md",
-    "JAVA/класс Math.md",
-    "JAVA/Цикл for.md",
-    "JAVA/While.md",
-    "5 - Case Platform/Конспекты/Общий курс/109 UDML и UDMS языки/1 - Что мы знаем об UDML.md",
-    "Django, Celery и Redis. Гайд по работе с асинхронными задачами.md",
+    "JAVA/Округление вещественных чисел.md",
     "Как настроить SSO (Single Sign-On) в Django.md",
+    "Без названия.md",
+    "Django, Celery и Redis. Гайд по работе с асинхронными задачами.md",
+    "Шаблоны проектирования/Наблюдатели (шаблон проектирования).md",
+    "Шаблоны проектирования/MVC.md",
+    "Шаблоны проектирования",
+    "PYTHON/Работа с датой и временем/типы данных date и time.md",
+    "PYTHON/Работа с датой и временем/типы данных date и time 2.md",
+    "PYTHON/Работа с датой и временем/тип данных timedelta.md",
+    "PYTHON/Работа с датой и временем/тип данных datetime.md",
+    "PYTHON/Работа с датой и временем/модуль time.md",
+    "PYTHON/Работа с датой и временем/модуль calendar.md",
+    "PYTHON/Обработка исключений/обработка исключений 4.md",
+    "PYTHON/Обработка исключений/обработка исключений 3.md",
+    "PYTHON/Обработка исключений/обработка исключений 2.md",
+    "PYTHON/Обработка исключений/обработка исключений 1.md",
+    "PYTHON/Модуль collections/тип данных defaultdict.md",
+    "PYTHON/Модуль collections/тип данных Counter 2.md",
+    "PYTHON/Модуль collections/тип данных Counter 1.md",
+    "PYTHON/Модуль collections/тип данных ChainMap 2.md",
+    "PYTHON/Модуль collections/тип данных ChainMap 1.md",
+    "PYTHON/Модуль collections/Именованные кортежи (тип namedtuple) 2.md",
+    "PYTHON/Модуль collections/Именованные кортежи (тип namedtuple) 1.md",
+    "PYTHON/Работа с датой и временем",
+    "PYTHON/Потоковый ввод stdin и вывод stdout.md",
+    "PYTHON/Обработка исключений",
+    "PYTHON/Модуль collections",
+    "PYTHON/Как задать путь к файлу.md",
+    "PYTHON/JSON.md",
+    "PYTHON",
+    "Nginx",
+    "MongoDB",
+    "Linux",
     "JAVA",
-    "Docker",
-    "LDAP",
+    "GIT/git_image.png",
     "GIT/Pasted image 20231005141810.png",
     "GIT/Pasted image 20231005141450.png",
     "GIT/Pasted image 20231005141232.png",
     "GIT",
-    "5 - Case Platform/Медиа/Видео/12 Работа с CSS классами.mp4",
-    "MongoDB",
-    "5 - Case Platform/Медиа/Видео/7 Работа с формой.mp4",
-    "Pasted image 20230918084325.png",
-    "Pasted image 20230918084259.png",
-    "Pasted image 20230918084245.png",
-    "5 - Case Platform/Конспекты/Общий курс/104 Диаграммы форм/Posted Images/Pasted image 20230214114236.png",
-    "5 - Case Platform/Конспекты/Общий курс/104 Диаграммы форм/Posted Images/Pasted image 20230214113620.png",
-    "5 - Case Platform/Конспекты/Общий курс/104 Диаграммы форм/Posted Images/Pasted image 20230213165511.png"
+    "Obsidian_value/GIT/git_image.png",
+    "Obsidian_value/GIT/Pasted image 20231005141810.png",
+    "Obsidian_value/GIT/Pasted image 20231005141450.png",
+    "Obsidian_value/GIT/Pasted image 20231005141232.png",
+    "Case_Platform/Конспекты/Общий курс/303 Инфраструктура. Основные команды и сбор диагностики/Posted Images/Pasted image 20230220043813.png",
+    "Case_Platform/Конспекты/Общий курс/303 Инфраструктура. Основные команды и сбор диагностики/Posted Images/Pasted image 20230220043757.png"
   ]
 }
