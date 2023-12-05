@@ -51,3 +51,17 @@ ArrayList<Тип> имя = new ArrayList<Тип>();
 |```java<br>тип[] toArray(тип[] array)<br>```|Возвращает массив, содержащий те же элементы, что и список.  <br>Массив нужно передать в метод.|
 
 Данные методы позволяют делать со списком практически все возможные операции: менять элементы местами, добавлять элементы, удалять элементы. Можно даже очистить список одной командой или преобразовать список в массив.
+
+Пример 1:
+
+public class Sample_String {
+    public static void main(String[] args) {
+        String str_Sample = "This is a String contains Example";
+        //Check if String contains a sequence
+        System.out.println("Contains sequence 'ing': " + str_Sample.contains("ing"));
+        System.out.println("Contains sequence 'Example': " + str_Sample.contains("Example"));
+        //String contains method is case sensitive  
+        System.out.println("Contains sequence 'example': " + str_Sample.contains("example"));
+        System.out.println("Contains sequence 'is String': " + str_Sample.contains("is String"));
+    }
+}
